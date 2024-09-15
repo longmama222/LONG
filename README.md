@@ -14,7 +14,7 @@
  <br>
  lớp: k48_d nghành: công nghệ thông tin
  <br>
- <img src="http://webcoban.vn/image/cat-2.jpg">
+ <img src="https://img6.thuthuatphanmem.vn/uploads/2022/11/18/hinh-anh-ban-tim_024806580.jpg">
 </h1>
 </body>
 </html>
