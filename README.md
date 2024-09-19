@@ -1,43 +1,24 @@
- <html lang=" en" >
-<head>
-    <meta charset="UTF-B">
-    <meta http-equiv="X-UA-Compatible" content="IE-edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>longk48d</title>
-</head>
-<body>
-
-<h1>
-   chào mọi người 
- <br>
- em là trần long 
- <br>
- lớp: k48_d nghành: công nghệ thông tin
- <br>
- <img src="https://img6.thuthuatphanmem.vn/uploads/2022/11/18/hinh-anh-ban-tim_024806580.jpg">
-</h1>
-<a href="http://facebook.com" name="'facebook" rel=""
-target="blank" title="Mở trang facebook">facebook.com</a>
-<br>
-<a href="http://google.com" name="'goole" rel=""
-target="blank" title="Mở trang google">google.com</a>
-<br>
-<a href="http://gmail.com" name="'gmail" rel=""
-target="blank" title="Mở trang gmail">gmail</a>
-<br>
-<a href="http://youtube.com" name="'youtube" rel=""
-target="blank" title="Mở trang youtube">youtube.com</a>
-<br>
-<a href="http://intasgram.com" name="'intasgram" rel=""
-target="blank" title="Mở trang intasgram">intasgram.com</a>
-<br>
-<a href="http://instagram.com" name="'instagram" rel=""
-target="blank" title="Mở trang instagram">instagram.com</a>
-<br>
-<a href="http://tiktok.com" name="'tiktok" rel=""
-target="blank" title="Mở trang tiktok">tiktok.com</a>
-<h1> chào em là Trần Long</h1>
-<br>
-em xin nộp bài ạ
-</body>
-</html>
+ <html>
+<style>
+    body {
+      background-image: url('https://th.bing.com/th/id/R.e3af634d01117e4caacc3f8a55f8f9b7?rik=QlZO0mjHniXRRQ&pid=ImgRaw&r=0');
+    }
+    </style>  
+    <HEAD> <TITLE> First Linked Document </TITLE> </HEAD> <BODY> 
+    <H1><center></centre>LÊ TẤN TRẦN LONG <BR> <center></H1>
+        <H1><CENTER> LỚP: K48_D </CENTER></H1> 
+     <H1><BR> <A HREF="TEST.HTML">HÀNH TRÌNH HỌC WED </A> 
+        </H1>
+    <H1> <BR> <A HREF="OI.HTML"> các wed hữu ích </A>
+        <BR>
+        <A HREF="#Features">Features</A><BR> 
+            <A HREF="#Technical Specifications">Technical Specifications</A><BR> 
+            <HTML> 
+    <HEAD> <TITLE> First Linked Document </TITLE> </HEAD> <BODY> 
+    <H1> <BR> <A HREF="HOME.HTML">TRANG WED ĐẦU TIÊN</A> 
+    </H1>
+    <br>
+    <H1> <BR> <A HREF="BAKA.HTML">THẺ BÀI TẬP A</A> 
+    </H1>
+    </BODY>
+    </HTML>>
