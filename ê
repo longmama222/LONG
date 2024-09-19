@@ -1,0 +1,21 @@
+<HTML> 
+    <style>
+        body {
+          background-image: url('https://th.bing.com/th/id/OIP.yzAmNoXhbMVaUBwbe3-mmgHaEK?rs=1&pid=ImgDetMain');
+        }
+        </style>
+    <HEAD> <TITLE> A sample HTML Document </TITLE> </HEAD> 
+    <BODY> <P> lý lịch cá nhân:
+        <br>
+        tên em là: lê tấn trần long
+        <br>
+        sinh ngày: 21/07/2006
+        <br>
+        em đang học: trường đại học Khoa Học Huế
+        <br>
+        nghành: công nghệ thông tin
+        <br>
+        sở thích: chơi game, đi chơi, các môn thể thao
+    </BODY>
+    </HTML>
+    
