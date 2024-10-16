@@ -146,23 +146,3 @@
 </body>
 </html>
 
-            <td>đi ngủ</td>
-        </tr>
-        <tr>
-            <td>9:00 - 10:00</td>
-            <td>thể dục</td>
-            <td>đi ngủ</td>
-            <td>chơi gái</td>
-            <td>nghe nhạc</td>
-            <td>đi ngủ</td>
-        </tr>
-        <tr>
-            <td>10:00 - 11:00</td>
-            <td>Thủ dâm</td>
-            <td>đi ỉa</td>
-            <td>đi tè</td>
-            <td>đi ngủ</td>
-            <td>ngủ nữa</td>
-        
-</body>
-</html>
