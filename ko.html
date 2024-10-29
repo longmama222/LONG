@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bài Tập 2</title>
+    <style>
+        .container {
+            width: 800px;  /* Set width for the layout */
+            height: 500px; /* Set height for the layout */
+            display: grid;
+            grid-template-columns: 2fr 1fr;  /* 2 columns with different width ratios */
+            grid-template-rows: repeat(4, 1fr); /* 4 rows, equal height */
+            gap: 5px;
+            border: 2px solid black;
+            box-sizing: border-box;
+        }
+
+        .lightblue {
+            background-color: lightblue;
+            grid-column: span 2;  /* Full width for first row */
+        }
+
+        .red {
+            background-color: red;
+            grid-column: span 2;
+            height: 30px; /* Custom height for red bar */
+        }
+
+        .green {
+            background-color: green;
+        }
+
+        .blue {
+            background-color: blue;
+            grid-row: span 2;
+        }
+
+        .lightblue-small {
+            background-color: lightblue;
+        }
+
+        .purple {
+            background-color: purple;
+        }
+
+        .cyan {
+            background-color: cyan;
+        }
+
+        .orange {
+            background-color: orange;
+        }
+
+        .yellowgreen {
+            background-color: yellowgreen;
+            grid-column: span 2;
+        }
+
+        .blue-large {
+            background-color: blue;
+            grid-column: span 2;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="lightblue"></div>
+    <div class="red"></div>
+    <div class="green"></div>
+    <div class="blue"></div>
+    <div class="lightblue-small"></div>
+    <div class="purple"></div>
+    <div class="cyan"></div>
+    <div class="orange"></div>
+    <div class="yellowgreen"></div>
+    <div class="blue-large"></div>
+</div>
+
+</body>
+</html>
