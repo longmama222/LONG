@@ -22,5 +22,3 @@
         }
     </style>
 
-</body>
-</html>
