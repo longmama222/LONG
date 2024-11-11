@@ -115,7 +115,7 @@
     <!-- Header Section with Logo -->
     <header>
         <h1>CHÀO CÁC DÂN CHƠI ĐÃ ĐI LẠC VÀO WEB CỦA MÌNH</h1>
-        <img src="Thiết kế chưa có tên.png" alt="Group Logo" class="logo">
+        <img src="LSHTT (1).png" alt="Group Logo" class="logo">
     </header>
 
     <!-- Members Section -->
