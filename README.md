@@ -115,13 +115,13 @@
     <!-- Header Section with Logo -->
     <header>
         <h1>CHÀO CÁC DÂN CHƠI ĐÃ ĐI LẠC VÀO WEB CỦA MÌNH</h1>
-        <img src="c:\Users\LONGcute\Downloads\Thiết kế chưa có tên.png" alt="Group Logo" class="logo">
+        <img src="Thiết kế chưa có tên.png" alt="Group Logo" class="logo">
     </header>
 
     <!-- Members Section -->
     <section class="members">
         <div class="member">
-            <img src="c:\Users\LONGcute\Pictures\Screenshots\siêu nhân gao yuncos (3)-min.jpg" alt="Member 1">
+            <img src="siêu nhân gao yuncos (3)-min.jpg" alt="Member 1">
             <p>HỌ VÀ TÊN: LÊ TẤN TRẦN LONG</p>
             <p>LỚP: K48_D</p>
             <p>SỞ THÍCH: CHƠI GAME, VÂN VÂN....BLA BLA</p>
@@ -133,19 +133,19 @@
             <p>SỞ THÍCH: CHƠI GAME, chơi đá banh.</p>
         </div>
         <div class="member">
-            <img src="c:\Users\LONGcute\Pictures\Screenshots\siêu nhân gao yuncos (11)-min.jpg" alt="Member 3">
+            <img src="siêu nhân gao yuncos (11)-min.jpg" alt="Member 3">
             <p>HỌ VÀ TÊN: TRẦN NGỌC HÂN</p>
             <p>LỚP: K48_D</p>
             <p>SỞ THÍCH: ĂN VÀ NGỦ.</p>
         </div>
         <div class="member">
-            <img src="c:\Users\LONGcute\Pictures\Screenshots\78f9386500fa95c47f6c99b0554ff5d5.jpg" alt="Member 4">
+            <img src="78f9386500fa95c47f6c99b0554ff5d5.jpg" alt="Member 4">
             <p>HỌ VÀ TÊN: LÊ TẤN TÀI</p>
             <p>LỚP: K48_D</p>
             <p>SỞ THÍCH: đi du lịch,...</p>
         </div>
         <div class="member">
-            <img src="c:\Users\LONGcute\Pictures\Screenshots\789c0ab7853a62faa62fbff2e8ccc629.jpg" alt="Member 5">
+            <img src="789c0ab7853a62faa62fbff2e8ccc629.jpg" alt="Member 5">
             <p>HỌ VÀ TÊN: NGUYỄN VĂN THẠC SĨ</p>
             <p>LỚP: K48_D</p>
             <p>SỞ THÍCH: chơi game, khám phá những thứ mới mẻ</p>
@@ -156,7 +156,7 @@
     <section class="video-section">
         <h2>MỜI CÁC DÂN CHƠI DỪNG CHÂN XEM SIÊU NHÂN CÙNG AE CHÚNG TÔI :)</h2>
         <video class="video" width="400" controls>
-            <source src="c:\Users\LONGcute\Downloads\Siêu nhân Gao - Biến hình.mp4" type="video/mp4">
+            <source src="Siêu nhân Gao - Biến hình.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </section>
