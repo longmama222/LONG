@@ -127,7 +127,7 @@
             <p>SỞ THÍCH: CHƠI GAME, VÂN VÂN....BLA BLA</p>
         </div>
         <div class="member">
-            <img src="c:\Users\LONGcute\Pictures\Screenshots\09ca66ba-f8a0-48ad-af32-ab67d5007490-1531714507245812030734.jpg" alt="Member 2">
+            <img src="09ca66ba-f8a0-48ad-af32-ab67d5007490-1531714507245812030734.jpg" alt="Member 2">
             <p>HỌ VÀ TÊN: LÊ ANH TÚ</p>
             <p>LỚP: K48_D</p>
             <p>SỞ THÍCH: CHƠI GAME, chơi đá banh.</p>
